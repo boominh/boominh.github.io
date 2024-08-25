@@ -8,15 +8,15 @@ id: skills
 
 - Unreal 5 
 - Unity
-- SDL2
-- C++
 - C#
 - Blueprints
+- Blender
+- CSS, HTML, JavaScript
 
 **Tools & Technologies**
 
-Rider, Visual Studio, Github,
-Figma, Miro, Slack, Discord, etc
+Visual Studio, Github, Trello,
+Discord, Obsidian, Google Sheets, Logic Pro
 
 **Other Skills**
 
