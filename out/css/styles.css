@@ -1222,6 +1222,14 @@ video {
   margin-top: 1.5rem;
 }
 
+.mb-auto {
+  margin-bottom: auto;
+}
+
+.mt-8 {
+  margin-top: 2rem;
+}
+
 .block {
   display: block;
 }
@@ -1414,6 +1422,10 @@ video {
   background-image: url('{{project.img}}');
 }
 
+.bg-\[url\(\'https\:\/\/via\.placeholder\.com\/1440x810\'\)\] {
+  background-image: url('https://via.placeholder.com/1440x810');
+}
+
 .from-zinc-950 {
   --tw-gradient-from: #09090b var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(9 9 11 / 0) var(--tw-gradient-to-position);
@@ -1518,6 +1530,16 @@ video {
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
 }
 
 .font-bold {
