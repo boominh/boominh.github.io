@@ -8,5 +8,5 @@ Hi, sweet of you to check this out!
 </h1>
 
 <p class="text-xl mt-8 mb-auto">
-The page is currently under construction, but please check back in later! In the meantime, have a beautiful day! c:
+This site is currently under construction, but please check back in later. In the meantime, have a beautiful day! :)
 </p>
